@@ -4,7 +4,7 @@ const {
   getAllTransection,
   editTransection,
   deleteTransection,
-} = require("../Controllers/taskCtrl");
+} = require("../Controllers/taskCtrl.js");
 
 //router object
 const router = express.Router();
